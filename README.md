@@ -13,7 +13,7 @@ This module does not require any external dependencies beyond Python's standard 
 
 ```bash
 # Clone the repository
-$ git clone https://github.com/
+$ git clone https://github.com/](https://github.com/anwar1406/IGS-Data-Download.git
 
 # Navigate into the directory
 $ cd gnss-data-downloader
