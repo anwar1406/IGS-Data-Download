@@ -99,5 +99,5 @@ This project is licensed under CC0 licence. See the LICENSE file for details.
 
 ## Acknowledgments
 
-This module was developed by **Ibaad Anwar** as part of GNSS research and data processing projects.
+This module was developed by **Ibaad Anwar** as part of Ph.D.= Thesis on GNSS.
 
